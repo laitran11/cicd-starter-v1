@@ -22,4 +22,4 @@ go build -o notely && ./notely
 
 You do *not* need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
 
-Version 1.0.0
+Version 1.0.1
